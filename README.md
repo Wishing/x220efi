@@ -6,10 +6,14 @@ Let’s go
 1. prepare
                refer to  http://x220.mcdonnelltech.com/  
                PART 1 OF 4: ADJUST BIOS SETTINGS
+               
                PART 2 OF 4: CREATE USB INSTALLER
-                               note: 
+               
+               note: 
                  replace [Install macOS High Sierra app] with [Install macOS Mojave app]
-                **== replace efi folder in [ThinkPad X220 macOS 10.13 Utility and Kext Pack]  with efi in this repository==**
+               
+               
+               **== replace efi folder in [ThinkPad X220 macOS 10.13 Utility and Kext Pack]  with efi in this repository==**
        
 2. install
              refer to  http://x220.mcdonnelltech.com/  

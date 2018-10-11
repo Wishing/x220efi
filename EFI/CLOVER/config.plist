@@ -152,7 +152,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>macOS</string>
+		<string>mac</string>
 		<key>Fast</key>
 		<false/>
 		<key>IgnoreNVRAMBoot</key>
@@ -162,7 +162,7 @@
 		<key>RtcHibernateAware</key>
 		<true/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>1</integer>
 		<key>UseAlternateLogo</key>
 		<true/>
 		<key>XMPDetection</key>

@@ -24,7 +24,10 @@ refer to  http://x220.mcdonnelltech.com/
 refer to  http://x220.mcdonnelltech.com/  
 PART 4 OF 4: POST INSTALL  
   
-**note: run with sudo EFI/CLOVER/kexts_kext-install.command**  
+**note1: run with sudo EFI/CLOVER/kexts_kext-install.command**  
+**note2: use kext utility.app in tools directory to install hd3000 driver**  
+**note3: copy PlatformSupport.plist to /System/Library/CoreServices**  
+**note4: run sudu disabletailspind.sh to speed up x220** 
   
 
 thanks to http://x220.mcdonnelltech.com/  
